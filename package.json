@@ -1,0 +1,30 @@
+{
+  "name": "beauty-product-browser",
+  "version": "0.1.5",
+  "description": "A web-app to browse beauty products from Amazon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.3.3",
+    "express": "4.13.3",
+    "apac": "latest",
+    "node-cache": "latest"
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chandnisoni/beauty-product-browser"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "beauty",
+    "amazon"
+  ],
+  "license": "MIT"
+}

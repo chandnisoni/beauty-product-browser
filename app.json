@@ -1,0 +1,7 @@
+{
+  "name": "Beauty Product Browser",
+  "repository": "https://github.com/chandnisoni/beauty-product-browser",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static", "beauty", "browser"],
+  "image": "heroku/nodejs"
+}
