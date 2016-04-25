@@ -1,6 +1,6 @@
 # Beauty Product Browser
 
-[![Heroku](https://heroku-badge.herokuapp.com/?app=beauty-product-browser)] [Live Demo](http://beauty-product-browser.herokuapp.com/)
+![Heroku](https://heroku-badge.herokuapp.com/?app=beauty-product-browser) [Live Demo](http://beauty-product-browser.herokuapp.com/)
 
 A simple application to produce and deploy a web application that allows users to browse the Amazon product catalog related to beauty products.
 
