@@ -9,6 +9,7 @@
   "dependencies": {
     "apac": "latest",
     "babel": "^6.5.2",
+    "babel-cli": "^6.7.7",
     "ejs": "2.3.3",
     "express": "4.13.3",
     "node-cache": "latest"

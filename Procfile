@@ -1,1 +1,1 @@
-web: node --harmony --harmony_modules index.js
+web: ./node_modules/.bin/babel-node index.js
