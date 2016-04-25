@@ -4,18 +4,16 @@
   "description": "A web-app to browse beauty products from Amazon",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/.bin/babel-node index.js"
+    "start": "node --harmony index.js"
   },
   "dependencies": {
     "apac": "latest",
-    "babel": "^6.5.2",
-    "babel-cli": "^6.7.7",
     "ejs": "2.3.3",
     "express": "4.13.3",
     "node-cache": "latest"
   },
   "engines": {
-    "node": "0.12.7"
+    "node": "4.2.2"
   },
   "repository": {
     "type": "git",
