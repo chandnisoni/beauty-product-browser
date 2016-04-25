@@ -1,5 +1,7 @@
 # Beauty Product Browser
 
+[Live Demo](http://beauty-product-browser.herokuapp.com/)
+
 A simple application to produce and deploy a web application that allows users to browse the Amazon product catalog related to beauty products.
 
 User will be able to access web application and see a list of products, including product images and product names and would also be able to interact with a list to go to the product page on www.amazon.com.
