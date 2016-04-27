@@ -97,31 +97,31 @@
         <img id="spinner" ng-src="img/ring-alt.gif" style="display:block; margin: 0 auto">
         <div class="row" ng-repeat="item in items track by $index" ng-if="$index % 5 == 0" >
             <div class="col-md-2 portfolio-item">
-                <a href="{{items[$index].url[0]}}">
+                <a href="{{items[$index].url}}">
                     <img class="img-responsive" ng-src="{{items[$index].image}}" alt="" >
                     <h5>{{item.title}}</h5>
                 </a>
             </div>
             <div class="col-md-2 portfolio-item">
-                <a href="{{items[$index+1].url[0]}}">
+                <a href="{{items[$index+1].url}}">
                     <img class="img-responsive" ng-src="{{items[$index + 1].image}}" alt="" >
                     <h5>{{items[$index+1].title}}</h5>
                 </a>
             </div>
             <div class="col-md-2 portfolio-item">
-                <a href="{{items[$index+2].url[0]}}">
+                <a href="{{items[$index+2].url}}">
                     <img class="img-responsive" ng-src="{{items[$index + 2].image}}" alt="" >
                     <h5>{{items[$index+2].title}}</h5>
                 </a>
             </div>
             <div class="col-md-2 portfolio-item">
-                <a href="{{items[$index+3].url[0]}}">
+                <a href="{{items[$index+3].url}}">
                     <img class="img-responsive" ng-src="{{items[$index + 3].image}}" alt="" >
                     <h5>{{items[$index+3].title}}</h5>
                 </a>
             </div>
             <div class="col-md-2 portfolio-item">
-                <a href="{{items[$index+4].url[0]}}">
+                <a href="{{items[$index+4].url}}">
                     <img class="img-responsive" ng-src="{{items[$index + 4].image}}" alt="" >
                     <h5>{{items[$index+4].title}}</h5>
                 </a>
