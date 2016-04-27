@@ -1,6 +1,6 @@
 # Beauty Product Browser
 
-[Live Demo](http://beauty-product-browser.herokuapp.com/)
+![Heroku](https://heroku-badge.herokuapp.com/?app=beauty-product-browser) [Live Demo](http://beauty-product-browser.herokuapp.com/)
 
 A simple application to produce and deploy a web application that allows users to browse the Amazon product catalog related to beauty products.
 
@@ -11,7 +11,7 @@ User will be able to access web application and see a list of products, includin
 * Front-end: Bootstrap, AngularJS, HTML, CSS
 * Back-end: node.js, express, node-apac (aws client), node-cache
 * Utilizes [node-cache](https://www.npmjs.com/package/node-cache) module to cache AWS response on server-side.
-* Doesn't store awsId, awsSecret and assocId separately in the code-base. The application loads these using the environment variables. See more heroku specific details [here](https://devcenter.heroku.com/articles/config-vars).
+* Doesn't store `awsId`, `awsSecret` and `assocId` separately in the code-base. The application loads these using the environment variables. See more heroku specific details [here](https://devcenter.heroku.com/articles/config-vars).
 
 
 # node-js-getting-started
